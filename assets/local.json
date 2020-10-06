@@ -1,0 +1,33 @@
+{
+    "Behaviour": [
+      {
+        "Q": "Tomar Fotografia",
+        "A": "Evalua con la IA los valores de la imagen."
+      }
+
+    ],
+    "Communication": [
+      {
+        "Q": "How would you describe good/effective communication?",
+        "A": "Effective communication is: an interconnected connected system where people and ideas flow quickly, comprehensively, and sustainable. Effective communication is NOT just getting your point across to others quickly \n It is extremely hard to do and takes lots of conscious thought and effort to set-up and maintain. \n·Quickly: The time it takes to think, message, listen, understand and then take action\n·Comprehensively: The people and ideas are sent and received completely·\nSustainably: The cost, whether financial, emotional, or otherwise is very low allowing ideas to flow in the system easily without it breaking down (e.g. shouting and screaming makes things clear, but not sustainable)"
+      }
+    ],
+    "Opinion": [
+      {
+        "Q": "Will you be out to take my job?",
+        "A": "Maybe in about twenty years, but by then, I suspect you'll be running the entire company and will need a good, loyal lieutenant to help you manage this department!"
+      }
+    ],
+    "Performance": [
+      {
+        "Q": "What is your biggest weakness that's really a weakness, and not a secret strength?",
+        "A": "I am extremely impatient. I expect my employees to prove themselves on the very first assignment. If they fail, my tendency is to stop delegating to them and start doing everything myself.To compensate for my own weakness, however, I have started to really prep my people on exactly what will be expected of them.  "
+      }
+    ],
+    "Brainteasures": [
+      {
+        "Q": "You are driving a bus. There were 15 passengers already in the bus. You: pick up 20 people from Station A,drop 12 to Station B,pick up 17 from Station C and drop 9 to Station D.Then, what is the age of the driver of bus.",
+        "A": "It's your age(for clarification read the first line of question again)"
+      }
+    ]
+  }
